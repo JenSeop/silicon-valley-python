@@ -1,0 +1,6 @@
+name_list = ("Kim", "Lee", "Jhon", "Steve")
+print("Name List")
+print(name_list[0])
+print(name_list[1])
+print(name_list[2])
+print(name_list[3])
