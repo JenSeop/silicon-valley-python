@@ -1,0 +1,1 @@
+hobby = print("Is ur hobby? : " + input())
