@@ -7,7 +7,7 @@ print("Hello" + "   " + "World!")
 # print dict
 print({'name': 'Joon', 'age': 38})
 
-# print array
+# print list
 print([1, 2, 3])
 
 # print tuple
