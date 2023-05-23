@@ -1,0 +1,16 @@
+list = ["a", "b", "c", "d"]
+print(list)
+list.append("e")
+print(list)
+list += list
+print(list)
+list.insert(2, "a")
+list.insert(4, "a")
+list.insert(6, "a")
+print(list.pop())
+print(list)
+print(list.pop(6))
+print(list)
+print(list.pop(4))
+print(list)
+print(list.pop(2))
