@@ -23,7 +23,7 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |18|Function|||
 |19|Indentation|Space bar or Tab?||
 |20|WhileLoop|||
-|21|HangMan|WhileLoop & Others 활용 예제||
+|21|HangMan|WhileLoop & Others 활용 예제|~23.05.24|
 |22||||
 |23||||
 |24||||
