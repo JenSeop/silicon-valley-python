@@ -14,11 +14,11 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |09|Multiple Condition ex|||
 |10|Logical Operator|||
 |11|Radomization|||
-|12|Coin Game|Randomization 활용 코인 게임||
+|12|Coin Game|Randomization 활용 예제||
 |13|List data structure|||
 |14|List Error & nested list|||
 |15|For loop||~23.05.23|
-|16||||
+|16|FizzBuzz|For loop & Condition 활용 예제||
 |17||||
 |18||||
 |19||||
