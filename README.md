@@ -20,6 +20,6 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |15|For loop||~23.05.23|
 |16|FizzBuzz|For loop & Condition 활용 예제||
 |17|pwAdvisor|Randomization & Shuffle 활용 예제||
-|18||||
-|19||||
+|18|Function|||
+|19|Indentation|Space bar or Tab?||
 |20||||
