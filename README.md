@@ -19,7 +19,7 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |14|List Error & nested list|||
 |15|For loop||~23.05.23|
 |16|FizzBuzz|For loop & Condition 활용 예제||
-|17||||
+|17|pwAdvisor|Randomization & Shuffle 활용 예제||
 |18||||
 |19||||
 |20||||
