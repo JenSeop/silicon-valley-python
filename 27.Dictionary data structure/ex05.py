@@ -23,5 +23,5 @@ dict = {
     }
 }
 
-for i in dict:
-    print(f"{i} : {dict[i]}")
+print(dict.keys())
+print(dict.values())
