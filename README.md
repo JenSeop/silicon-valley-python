@@ -28,7 +28,7 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |23|Function with param|||
 |24|Function with return|||
 |25|sepBills|Function 활용 예제||
-|26||||
+|26|Prime Number|Function 활용 예제||
 |27||||
 |28||||
 |29||||
