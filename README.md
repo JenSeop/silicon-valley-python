@@ -29,7 +29,7 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |24|Function with return|||
 |25|sepBills|Function 활용 예제||
 |26|Prime Number|Function 활용 예제||
-|27||||
+|27|Dictionary data structure|||
 |28||||
 |29||||
 |30||||

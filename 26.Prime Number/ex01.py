@@ -8,7 +8,6 @@ def isPrime(ranges: int):
             return False
         else: checker+=1
     return True # prime return
-
 # set prime range
 ranges = ""
 while ranges == "":
