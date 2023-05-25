@@ -26,8 +26,8 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |21|HangMan|WhileLoop & Others 활용 예제|~23.05.24|
 |22|StringReverse|||
 |23|Function with param|||
-|24||||
-|25||||
+|24|Function with return|||
+|25|sepBills|Function 활용 예제||
 |26||||
 |27||||
 |28||||
