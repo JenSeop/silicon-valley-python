@@ -31,7 +31,7 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |26|Prime Number|Function 활용 예제||
 |27|Dictionary data structure|||
 |28|Grading|Dictionary 활용 예제||
-|29||||
+|29|Nested data structure|||
 |30||||
 |31||||
 |32||||
