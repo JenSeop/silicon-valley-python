@@ -30,7 +30,7 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |25|sepBills|Function 활용 예제||
 |26|Prime Number|Function 활용 예제||
 |27|Dictionary data structure|||
-|28||||
+|28|Grading|Dictionary 활용 예제||
 |29||||
 |30||||
 |31||||
