@@ -32,8 +32,8 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |27|Dictionary data structure|||
 |28|Grading|Dictionary 활용 예제||
 |29|Nested data structure|||
-|30|30.Assignment vs. Shallow Copy vs.  Deep Copy|||
-|31||||
+|30|Assignment vs. Shallow Copy vs.  Deep Copy|||
+|31|Scope|||
 |32||||
 |33||||
 |34||||
