@@ -8,12 +8,14 @@ def isPrime(ranges: int):
             return False
         else: checker+=1
     return True # prime return
+
 # set prime range
 ranges = ""
 while ranges == "":
     ranges = input("set prime range => ")
 if ranges != "":
     ranges = int(ranges)
+
 # print prime numbers
 num = 1
 for num in range(ranges + 1):

@@ -13,6 +13,7 @@ def is_prime_number(num: int):
             print(f"Congrat! {num} is a prime number")
     else:
         print(f"{num} is not the prime number")
+        
 # send number to prime checker
 number = int(input("input number => "))
 is_prime_number(number)
