@@ -39,7 +39,7 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |34|Error & Logic|||
 |35|What is Class?|Turtle Class 활용 예제||
 |36|Pypi(Python Registry)|Python Package||
-|37||||
+|37|Class constructor|||
 |38||||
 |39||||
 |40||||
