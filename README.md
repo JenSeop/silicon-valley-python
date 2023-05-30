@@ -37,7 +37,7 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |32|How to Debug|||
 |33|Docstring|||
 |34|Error & Logic|||
-|35||||
+|35|What is Class?|Turtle Class 활용 예제||
 |36||||
 |37||||
 |38||||
