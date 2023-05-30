@@ -35,7 +35,7 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |30|Assignment vs. Shallow Copy vs.  Deep Copy|https://www.byidev.com/96||
 |31|Scope|https://www.byidev.com/97|~23.05.25|
 |32|How to Debug|||
-|33||||
+|33|Docstring|||
 |34||||
 |35||||
 |36||||
