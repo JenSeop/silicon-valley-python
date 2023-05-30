@@ -38,7 +38,7 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |33|Docstring|||
 |34|Error & Logic|||
 |35|What is Class?|Turtle Class 활용 예제||
-|36||||
+|36|Pypi(Python Registry)|Python Package||
 |37||||
 |38||||
 |39||||
