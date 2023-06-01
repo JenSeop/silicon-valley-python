@@ -19,7 +19,7 @@ class Car:
 class ElectricCar(Car):
 
     def __init__(self):
-        # Parents Method call by super
+        # Parents def call by super
         super().__init__()
     
     def start(self):
@@ -42,6 +42,7 @@ ec.drive()
 print(id(ec))
 print("-------")
 
+# cec1, cec2, cec2 totally different object in memory
 cec1 = CombustionEngineCar()
 cec1.start()
 cec1.drive()
