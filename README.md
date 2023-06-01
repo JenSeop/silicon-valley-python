@@ -43,7 +43,7 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |38|Method||~23.05.30|
 |39|Import Class|||
 |40|built-in data type|||
-|41||||
+|41|Higher Order function|||
 |42||||
 |43||||
 |44||||
