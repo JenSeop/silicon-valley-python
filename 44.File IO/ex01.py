@@ -1,6 +1,6 @@
 # file management
 # write => w, read => r
-# path = "./39.FILE IO/README.txt"
+# path = "./44.FILE IO/README.txt"
 # file = open(path, 'r')
 # print(file.read())
 # file.close()
@@ -13,10 +13,10 @@
 # - GC
 
 # no close any more
-# path = "./39.FILE IO/README.txt"
+# path = "./44.FILE IO/README.txt"
 # with open(path, "r") as file:
 #     print(file.read())
 
-# path = "./39.FILE IO/WRITEME.txt"
+# path = "./44.FILE IO/WRITEME.txt"
 # with open(path, "a") as file:
 #     print(file.write("Thanks"))
