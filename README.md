@@ -41,7 +41,7 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |36|Pypi(Python Registry)|Python Package||
 |37|Class constructor|||
 |38|Method||~23.05.30|
-|39||||
+|39|File IO|||
 |40||||
 |41||||
 |42||||
