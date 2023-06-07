@@ -47,9 +47,9 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |42|Class Inheritance|||
 |43|Python2 vs. Python3|https://www.byidev.com/98|~23.06.01|
 |44|File IO|||
-|45|Comma Separated Value|||
-|46|Pandas|||
-|47||||
+|45|Comma Separated Value|CSV||
+|46|Pandas|Pandas Lib||
+|47|List comprehension|리스트 문법 단순화||
 |48||||
 |49||||
 |50||||
