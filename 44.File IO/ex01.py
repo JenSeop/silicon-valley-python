@@ -18,5 +18,5 @@
 #     print(file.read())
 
 # path = "./44.FILE IO/WRITEME.txt"
-# with open(path, "a") as file:
+# with open(path, "w") as file:
 #     print(file.write("Thanks"))
