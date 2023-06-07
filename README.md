@@ -49,7 +49,7 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |44|File IO|||
 |45|Comma Separated Value|CSV||
 |46|Pandas|Pandas Lib||
-|47|List comprehension|리스트 문법 단순화||
+|47|List comprehension|||
 |48||||
 |49||||
 |50||||
