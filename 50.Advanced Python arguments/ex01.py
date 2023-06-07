@@ -30,8 +30,8 @@ calc(n1 = 1, n2 = 3, func="add")
 
 def calc(func, **kwargs):
     for k, v in kwargs.items():
-        print(k)
-        print(v)
+        print("key => ", k)
+        print("val => ", v)
     
     if func == "add":
         return kwargs['n1'] + kwargs['n2']
