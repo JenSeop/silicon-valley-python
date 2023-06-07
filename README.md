@@ -52,4 +52,4 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |47|List comprehension|||
 |48|Dictionary comprehension|||
 |49|Iterate Pandas dataframe|||
-|50||||
+|50|Advanced Python arguments|||
