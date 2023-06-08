@@ -57,7 +57,7 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |52|Try except|||
 |53|JSON(Java Script Object Notation)|||
 |54|Datetime module|||
-|55|What is API?|https://www.byidev.com/99||
+|55|What is API?|https://www.byidev.com/99|~23.06.08|
 |56||||
 |57||||
 |58||||
