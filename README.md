@@ -56,7 +56,7 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |51|Dynamic & Strong Typing Language of Python|||
 |52|Try except|||
 |53|JSON(Java Script Object Notation)|||
-|54||||
+|54|Datetime module|||
 |55||||
 |56||||
 |57||||
