@@ -13,6 +13,7 @@ print(name)
 print(height)
 print(is_student)
 
+# Type Hints
 def enter_school(is_student: bool) -> bool:
     if is_student:
         return True
@@ -24,5 +25,3 @@ if enter_school(is_student):
     print("Student!")
 else:
     print("Isn't Student!")
-
-# Type Hints
