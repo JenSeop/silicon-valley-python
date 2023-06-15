@@ -61,7 +61,7 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |56|Data typing(type hint)|||
 |57|User defined error|||
 |58|Class method||~23.06.13|
-|59||||
+|59|Static Method|||
 |60||||
 |61||||
 |62||||
