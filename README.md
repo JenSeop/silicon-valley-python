@@ -64,7 +64,7 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |59|Static Method|||
 |60|Map & Filter|||
 |61|Lambda expression|람다 표현법||
-|62|Special & Magic method|||
+|62|Special & Magic method||~23.06.15|
 |63||||
 |64||||
 |65||||
