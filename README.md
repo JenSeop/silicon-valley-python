@@ -63,7 +63,7 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |58|Class method||~23.06.13|
 |59|Static Method|||
 |60|Map & Filter|||
-|61||||
+|61|Lambda expression|람다 표현법||
 |62||||
 |63||||
 |64||||
