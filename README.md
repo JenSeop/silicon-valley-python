@@ -62,7 +62,7 @@ Python 언어 학습을 위해 다양한 커맨드와 에러를 커밋할 레파
 |57|User defined error|||
 |58|Class method||~23.06.13|
 |59|Static Method|||
-|60||||
+|60|Map & Filter|||
 |61||||
 |62||||
 |63||||
